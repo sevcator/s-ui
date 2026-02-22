@@ -21,3 +21,4 @@ To install S-UI on Windows:
 To build from source:
 - With CMD: `build-windows.bat`
 - With PowerShell: `.\build-windows.ps1`
+
